@@ -29,10 +29,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/arnold-anderson-martinez-villela/" target="_blank">
+  <a href="https://www.linkedin.com/in/arnold-anderson-martinez-villela/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
   </a>
-  <a href="arnold.vilela.98@gmail.com" target="_blank">
+  <a href="mailto:arnold.vilela.98@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="40" alt="gmail logo"  />
   </a>
 </div>
